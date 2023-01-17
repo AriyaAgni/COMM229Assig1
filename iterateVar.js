@@ -10,5 +10,7 @@ function iterateVar() {
     }
     console.log(i);
     }
+    iterateLet();
+    iterateVar();
     
     
